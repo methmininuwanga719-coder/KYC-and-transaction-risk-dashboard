@@ -68,7 +68,7 @@ This project presents an **Anti-Money Laundering (AML) Compliance Dashboard** de
 AML-Compliance-Dashboard/
 │── POWER BI.pbix
 │── README.md
-│── dashboard-overview.png
+│── KYC and transaction Risk Dashboard.png
 │── clients.csv
 │── transactions.csv
 ```
