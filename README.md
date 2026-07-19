@@ -54,14 +54,6 @@ This project presents an **Anti-Money Laundering (AML) Compliance Dashboard** de
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add screenshots of your dashboard here.
-
-![Dashboard](dashboard-overview.png)
-
----
-
 ## 📂 Repository Structure
 
 ```
